@@ -1,0 +1,11 @@
+C:\Users\Oskar\Documents\fr-gesport\Frågesport\Frågesport\bin\Debug\netcoreapp2.1\Frågesport.deps.json
+C:\Users\Oskar\Documents\fr-gesport\Frågesport\Frågesport\bin\Debug\netcoreapp2.1\Frågesport.runtimeconfig.json
+C:\Users\Oskar\Documents\fr-gesport\Frågesport\Frågesport\bin\Debug\netcoreapp2.1\Frågesport.runtimeconfig.dev.json
+C:\Users\Oskar\Documents\fr-gesport\Frågesport\Frågesport\bin\Debug\netcoreapp2.1\Frågesport.dll
+C:\Users\Oskar\Documents\fr-gesport\Frågesport\Frågesport\bin\Debug\netcoreapp2.1\Frågesport.pdb
+C:\Users\Oskar\Documents\fr-gesport\Frågesport\Frågesport\obj\Debug\netcoreapp2.1\Frågesport.csprojAssemblyReference.cache
+C:\Users\Oskar\Documents\fr-gesport\Frågesport\Frågesport\obj\Debug\netcoreapp2.1\Frågesport.csproj.CoreCompileInputs.cache
+C:\Users\Oskar\Documents\fr-gesport\Frågesport\Frågesport\obj\Debug\netcoreapp2.1\Frågesport.AssemblyInfoInputs.cache
+C:\Users\Oskar\Documents\fr-gesport\Frågesport\Frågesport\obj\Debug\netcoreapp2.1\Frågesport.AssemblyInfo.cs
+C:\Users\Oskar\Documents\fr-gesport\Frågesport\Frågesport\obj\Debug\netcoreapp2.1\Frågesport.dll
+C:\Users\Oskar\Documents\fr-gesport\Frågesport\Frågesport\obj\Debug\netcoreapp2.1\Frågesport.pdb
