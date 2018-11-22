@@ -4,8 +4,8 @@ namespace Frågesport
 {
     class Program
     {
-        int numofright;
-        string rightans;
+        int totalright;
+        string correctanswer;
         string question;
         Card currentcard;
         static void Main(string[] args)
