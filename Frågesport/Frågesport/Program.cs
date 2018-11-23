@@ -10,8 +10,7 @@ namespace Frågesport
         Card currentcard;
         static void Main(string[] args)
         {
-            Database.getcard();
-            currentcard = new Card();
+            Database.getquestion();  
             Console.ReadKey();
         }
     }
