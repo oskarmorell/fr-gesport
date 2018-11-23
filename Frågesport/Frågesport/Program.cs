@@ -13,17 +13,17 @@ namespace Frågesport
             //currentcard = Card.getquestion();
             Console.WriteLine("Första frågan är" /*+ currentcard*/);
             string answer = Console.ReadLine();
-            //Card.iscorrect(answer);
+            //currentcard.iscorrect(answer);
 
             //currentcard = Card.getquestion();
             Console.WriteLine("Andra frågan är" /*+ currentcard*/);
             string answer2 = Console.ReadLine();
-            //Card.iscorrect(answer2);
+            //currentcard.iscorrect(answer2);
 
             //currentcard = Card.getquestion();
             Console.WriteLine("Tredje frågan är" /*+ currentcard*/);
             string answer3 = Console.ReadLine();
-            //Card.iscorrect(answer3);
+            //currentcard.iscorrect(answer3);
             Console.ReadKey();
         }
     }
