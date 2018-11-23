@@ -4,13 +4,21 @@ namespace Frågesport
 {
     class Program
     {
-        int totalright = 0;
-        string correctanswer;
-        string question;
-        Card currentcard;
+        public int totalright = 0;
+        public string correctanswer = "Hello";
+        public string question;
+        //Card currentcard;
         static void Main(string[] args)
         {
-            Database.getquestion();  
+            Console.WriteLine("Första frågan är" /*+ Database.getquestion();*/);
+            string answer = Console.ReadLine();
+            //Card.iscorrect(answer);
+            Console.WriteLine("Andra frågan är" /*+ Database.getquestion();*/);
+            string answer2 = Console.ReadLine();
+            //Card.iscorrect(answer);
+            Console.WriteLine("Tredje frågan är" /*+ Database.getquestion();*/);
+            string answer3 = Console.ReadLine();
+            //Card.iscorrect(answer);
             Console.ReadKey();
         }
     }
