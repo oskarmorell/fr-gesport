@@ -39,5 +39,13 @@
     "frameworks": {
       "netcoreapp2.1": {}
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Isac\\Desktop\\frågor ny\\fr-gesport\\Frågesport\\Frågesport\\obj\\Frågesport.csproj.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
