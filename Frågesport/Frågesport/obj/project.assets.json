@@ -8,11 +8,16 @@
     ".NETCoreApp,Version=v2.1": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\Alexander\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\Isac\\.nuget\\packages\\": {}
+>>>>>>> 1a79083c99f8ff3fe4b1fca9b72525ded277816a
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Work\\Github\\fr-gesport\\Frågesport\\Frågesport\\Frågesport.csproj",
       "projectName": "Frågesport",
       "projectPath": "C:\\Work\\Github\\fr-gesport\\Frågesport\\Frågesport\\Frågesport.csproj",
@@ -21,6 +26,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alexander\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "C:\\Users\\Isac\\Desktop\\frågor ny\\fr-gesport\\Frågesport\\Frågesport\\Frågesport.csproj",
+      "projectName": "Frågesport",
+      "projectPath": "C:\\Users\\Isac\\Desktop\\frågor ny\\fr-gesport\\Frågesport\\Frågesport\\Frågesport.csproj",
+      "packagesPath": "C:\\Users\\Isac\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Isac\\Desktop\\frågor ny\\fr-gesport\\Frågesport\\Frågesport\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Isac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 1a79083c99f8ff3fe4b1fca9b72525ded277816a
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
