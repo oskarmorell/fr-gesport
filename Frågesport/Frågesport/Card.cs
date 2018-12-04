@@ -8,7 +8,9 @@ namespace Frågesport
     {
         private string question;
         private string answer;
-        
+        Card card;
+        Database minDatabas = new Database();
+
         public Card(string fråga, string svar)
         {
             this.question = fråga;
@@ -16,11 +18,12 @@ namespace Frågesport
         }
         public string Getquestion()
         {
-            return question; 
+            card = minDatabas.GetCard();
+            return card.question; 
         }
         public string Getanswer()
         {
-            return answer;
+            return card.answer;
         }
         public bool Iscorrect (string guess)
         {
@@ -28,7 +31,7 @@ namespace Frågesport
             {
                 return true;
             }
-            if (guess != answer)
+            else
             {
                 return false;
             }
