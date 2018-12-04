@@ -14,15 +14,15 @@ namespace Frågesport
             this.question = fråga;
             this.answer = svar;
         }
-        public string getquestion()
+        public string Getquestion()
         {
             return question; 
         }
-        public string getanswer()
+        public string Getanswer()
         {
             return answer;
         }
-        public bool iscorrect (string guess)
+        public bool Iscorrect (string guess)
         {
             if (guess == answer)
             {

@@ -21,7 +21,7 @@ namespace Frågesport
 
         }
 
-        public Card getCard()
+        public Card GetCard()
         {
             Card myCard = qcards.RemoveAt(0);
             return myCard;

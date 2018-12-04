@@ -7,23 +7,23 @@ namespace Frågesport
         public int totalright = 0;
         public string correctanswer;
         public string question;
-        //Card currentcard;
+        string currentcard = new Card();
         static void Main(string[] args)
         {
-            //currentcard = Card.getquestion();
+            currentcard.Getquestion();
             Console.WriteLine("Första frågan är" /*+ currentcard*/);
-            string answer = Console.ReadLine();
-            //currentcard.iscorrect(answer);
+            string answer0 = Console.ReadLine();
+            currentcard.iscorrect(answer0);
 
-            //currentcard = Card.getquestion();
+            currentcard.Getquestion();
             Console.WriteLine("Andra frågan är" /*+ currentcard*/);
-            string answer2 = Console.ReadLine();
-            //currentcard.iscorrect(answer2);
+            string answer1 = Console.ReadLine();
+            currentcard.iscorrect(answer1);
 
-            //currentcard = Card.getquestion();
+            currentcard.Getquestion();
             Console.WriteLine("Tredje frågan är" /*+ currentcard*/);
-            string answer3 = Console.ReadLine();
-            //currentcard.iscorrect(answer3);
+            string answer2 = Console.ReadLine();
+            currentcard.iscorrect(answer2);
             Console.ReadKey();
         }
     }
