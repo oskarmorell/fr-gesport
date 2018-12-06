@@ -9,7 +9,8 @@ namespace Frågesport
         public string question;
         static void Main(string[] args)
         {
-            Card currentcard = new Card();
+            Database minDatabas = new Database();
+            Card currentcard = minDatabas.GetCard();
             Console.WriteLine("Vilken stad är " + currentcard.Getquestion());
             string answer0 = Console.ReadLine();
             currentcard.Iscorrect(answer0);
